@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: MinerU Documentation
+    url: https://opendatalab.github.io/MinerU/
+    about: Check the official MinerU docs for API questions
+  - name: MinerU GitHub
+    url: https://github.com/opendatalab/MinerU/issues
+    about: Report MinerU engine bugs upstream
